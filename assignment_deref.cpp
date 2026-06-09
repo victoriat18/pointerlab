@@ -1,4 +1,4 @@
-//Pointer Lab, 6/8/2026
+//1. Assignment and Dereferencing
 #include <iostream> 
 
 using namespace std;
